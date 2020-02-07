@@ -1,0 +1,244 @@
+﻿reps,variety,Yield,id,plantDate,Mulching
+3,Shorouq,24.80,1,2-28-2016,Black
+3,Mykonos,36.20,2,2-28-2016,White
+3,Rio Grande,10.80,3,2-28-2016,Bare-soil
+3,Tam Hot-Ty,17.80,4,2-28-2016,Bare-soil
+3,Rio Grande,38.80,5,2-28-2016,White
+3,SV8579TE,36.40,6,2-28-2016,Black
+3,Rio Grande,1.40,7,2-28-2016,Black
+3,Prunus,33.40,8,2-28-2016,White
+3,Seri,27.20,9,2-28-2016,Bare-soil
+3,SV8579TE,17.40,10,2-28-2016,Bare-soil
+3,Seri,41.20,11,2-28-2016,White
+3,Prunus,15.80,12,2-28-2016,Black
+3,Rio Grande,35.00,13,2-28-2016,Black
+3,Tam Hot-Ty,28.60,14,2-28-2016,White
+3,Prunus,17.00,15,2-28-2016,Bare-soil
+3,Mykonos,35.20,16,2-28-2016,Bare-soil
+3,Rio Grande,41.60,17,2-28-2016,White
+3,Seri,24.80,18,2-28-2016,Black
+3,Tam Hot-Ty,22.00,19,2-28-2016,Black
+3,Shorouq,37.70,20,2-28-2016,White
+3,DRP-8551,22.80,21,2-28-2016,Bare-soil
+3,Rio Grande,11.20,22,2-28-2016,Bare-soil
+3,DRP-8551,63.40,23,2-28-2016,White
+3,Mykonos,24.00,24,2-28-2016,Black
+3,DRP-8551,9.40,25,2-28-2016,Black
+3,SV8579TE,52.00,26,2-28-2016,White
+3,Shorouq,23.60,27,2-28-2016,Bare-soil
+2,Seri,37.60,28,2-28-2016,Bare-soil
+2,Rio Grande,39.40,29,2-28-2016,White
+2,Seri,59.20,30,2-28-2016,Black
+2,Tam Hot-Ty,1.20,31,2-28-2016,Black
+2,SV8579TE,48.40,32,2-28-2016,White
+2,Mykonos,20.80,33,2-28-2016,Bare-soil
+2,SV8579TE,20.80,34,2-28-2016,Bare-soil
+2,Seri,60.60,35,2-28-2016,White
+2,DRP-8551,32.80,36,2-28-2016,Black
+2,Rio Grande,17.40,37,2-28-2016,Black
+2,Shorouq,54.80,38,2-28-2016,White
+2,Tam Hot-Ty,19.80,39,2-28-2016,Bare-soil
+2,DRP-8551,36.80,40,2-28-2016,Bare-soil
+2,Rio Grande,29.20,41,2-28-2016,White
+2,Mykonos,33.80,42,2-28-2016,Black
+2,Shorouq,40.20,43,2-28-2016,Black
+2,Tam Hot-Ty,50.20,44,2-28-2016,White
+2,Prunus,0.60,45,2-28-2016,Bare-soil
+2,Rio Grande,3.80,46,2-28-2016,Bare-soil
+2,Prunus,7.40,47,2-28-2016,White
+2,SV8579TE,33.80,48,2-28-2016,Black
+2,Rio Grande,22.40,49,2-28-2016,Black
+2,Mykonos,31.60,50,2-28-2016,White
+2,Shorouq,24.40,51,2-28-2016,Bare-soil
+2,Rio Grande,8.80,52,2-28-2016,Bare-soil
+2,DRP-8551,40.00,53,2-28-2016,White
+2,Prunus,24.80,54,2-28-2016,Black
+1,SV8579TE,36.40,55,2-28-2016,Black
+1,Tam Hot-Ty,46.40,56,2-28-2016,White
+1,DRP-8551,43.60,57,2-28-2016,Bare-soil
+1,Seri,11.80,58,2-28-2016,Bare-soil
+1,Shorouq,37.20,59,2-28-2016,White
+1,DRP-8551,41.60,60,2-28-2016,Black
+1,Seri,32.40,61,2-28-2016,Black
+1,Torero,23.60,62,2-28-2016,White
+1,Prunus,8.70,63,2-28-2016,Bare-soil
+1,Shorouq,30.40,64,2-28-2016,Bare-soil
+1,SV8579TE,50.40,65,2-28-2016,White
+1,Rio Grande,14.20,66,2-28-2016,Black
+1,Prunus,31.60,67,2-28-2016,Black
+1,Mykonos,43.60,68,2-28-2016,White
+1,Torero,3.00,69,2-28-2016,Bare-soil
+1,SV8579TE,9.40,70,2-28-2016,Bare-soil
+1,Rio Grande,24.40,71,2-28-2016,White
+1,Tam Hot-Ty,20.00,72,2-28-2016,Black
+1,Shorouq,35.00,73,2-28-2016,Black
+1,DRP-8551,61.40,74,2-28-2016,White
+1,Rio Grande,4.20,75,2-28-2016,Bare-soil
+1,Tam Hot-Ty,4.00,76,2-28-2016,Bare-soil
+1,Prunus,39.60,77,2-28-2016,White
+1,Mykonos,14.60,78,2-28-2016,Black
+1,Torero,16.60,79,2-28-2016,Black
+1,Seri,44.80,80,2-28-2016,White
+1,Mykonos,4.80,81,2-28-2016,Bare-soil
+3,Shorouq,39.40,82,3-15-2016,Black
+3,Mykonos,56.80,83,3-15-2016,White
+3,Rio Grande,3.60,84,3-15-2016,Bare-soil
+3,Tam Hot-Ty,11.60,85,3-15-2016,Bare-soil
+3,Rio Grande,29.60,86,3-15-2016,White
+3,SV8579TE,44.80,87,3-15-2016,Black
+3,Rio Grande,17.00,88,3-15-2016,Black
+3,Prunus,56.40,89,3-15-2016,White
+3,Seri,27.00,90,3-15-2016,Bare-soil
+3,SV8579TE,37.00,91,3-15-2016,Bare-soil
+3,Seri,40.20,92,3-15-2016,White
+3,Prunus,41.00,93,3-15-2016,Black
+3,Rio Grande,14.40,94,3-15-2016,Black
+3,Tam Hot-Ty,64.20,95,3-15-2016,White
+3,Prunus,23.00,96,3-15-2016,Bare-soil
+3,Mykonos,11.20,97,3-15-2016,Bare-soil
+3,Rio Grande,44.60,98,3-15-2016,White
+3,Seri,42.80,99,3-15-2016,Black
+3,Tam Hot-Ty,37.00,100,3-15-2016,Black
+3,Shorouq,54.00,101,3-15-2016,White
+3,DRP-8551,33.20,102,3-15-2016,Bare-soil
+3,Rio Grande,10.00,103,3-15-2016,Bare-soil
+3,DRP-8551,37.90,104,3-15-2016,White
+3,Mykonos,38.00,105,3-15-2016,Black
+3,DRP-8551,18.80,106,3-15-2016,Black
+3,SV8579TE,54.40,107,3-15-2016,White
+3,Shorouq,28.80,108,3-15-2016,Bare-soil
+2,Seri,33.20,109,3-15-2016,Black
+2,Rio Grande,41.80,110,3-15-2016,White
+2,Seri,3.20,111,3-15-2016,Bare-soil
+2,Mykonos,25.80,112,3-15-2016,Bare-soil
+2,SV8579TE,59.80,113,3-15-2016,White
+2,Tam Hot-Ty,40.20,114,3-15-2016,Black
+2,DRP-8551,26.80,115,3-15-2016,Black
+2,Rio Grande,30.20,116,3-15-2016,Black
+2,Mykonos,25.20,117,3-15-2016,Black
+2,Shorouq,31.20,118,3-15-2016,Black
+2,SV8579TE,43.00,119,3-15-2016,Black
+2,Rio Grande,26.00,120,3-15-2016,Black
+2,Prunus,24.60,121,3-15-2016,Black
+1,SV8579TE,38.40,122,3-15-2016,Black
+1,DRP-8551,30.60,123,3-15-2016,Black
+1,Seri,40.80,124,3-15-2016,Black
+1,Rio Grande,16.80,125,3-15-2016,Black
+1,Prunus,52.60,126,3-15-2016,Black
+1,Tam Hot-Ty,49.20,127,3-15-2016,Black
+1,Shorouq,31.50,128,3-15-2016,Black
+1,Mykonos,32.40,129,3-15-2016,Black
+1,Torero,38.80,130,3-15-2016,Black
+1,Seri,36.00,131,3-15-2016,White
+1,Prunus,57.40,132,3-15-2016,White
+1,DRP-8551,25.80,133,3-15-2016,White
+1,Rio Grande,49.40,134,3-15-2016,White
+1,Mykonos,32.40,135,3-15-2016,White
+1,SV8579TE,53.00,136,3-15-2016,White
+1,Torero,42.00,137,3-15-2016,White
+1,Shorouq,32.00,138,3-15-2016,White
+1,Tam Hot-Ty,51.80,139,3-15-2016,White
+2,DRP-8551,49.60,140,3-15-2016,White
+2,Mykonos,65.20,141,3-15-2016,White
+2,Prunus,32.20,142,3-15-2016,White
+2,Tam Hot-Ty,62.60,143,3-15-2016,White
+2,Rio Grande,40.00,144,3-15-2016,White
+2,Shorouq,79.40,145,3-15-2016,White
+2,Seri,31.20,146,3-15-2016,White
+2,SV8579TE,19.20,147,3-15-2016,Bare-soil
+2,Tam Hot-Ty,30.20,148,3-15-2016,Bare-soil
+2,DRP-8551,23.80,149,3-15-2016,Bare-soil
+2,Prunus,10.20,150,3-15-2016,Bare-soil
+2,Rio Grande,19.60,151,3-15-2016,Bare-soil
+2,Shorouq,22.60,152,3-15-2016,Bare-soil
+2,Rio Grande,1.40,153,3-15-2016,Bare-soil
+1,DRP-8551,16.00,154,3-15-2016,Bare-soil
+1,Seri,21.00,155,3-15-2016,Bare-soil
+1,Prunus,20.40,156,3-15-2016,Bare-soil
+1,Shorouq,6.60,157,3-15-2016,Bare-soil
+1,Torero,2.60,158,3-15-2016,Bare-soil
+1,SV8579TE,29.80,159,3-15-2016,Bare-soil
+1,Rio Grande,2.20,160,3-15-2016,Bare-soil
+1,Tam Hot-Ty,12.80,161,3-15-2016,Bare-soil
+1,Mykonos,21.80,162,3-15-2016,Bare-soil
+3,Shorouq,23.40,163,3-31-2016,Black
+3,SV8579TE,33.20,164,3-31-2016,Black
+3,Rio Grande,11.60,165,3-31-2016,Black
+3,Prunus,32.40,166,3-31-2016,Black
+3,Rio Grande,14.80,167,3-31-2016,Black
+3,Seri,21.80,168,3-31-2016,Black
+3,Tam Hot-Ty,26.00,169,3-31-2016,Black
+3,Mykonos,23.60,170,3-31-2016,Black
+3,DRP-8551,34.20,171,3-31-2016,Black
+2,Seri,28.40,172,3-31-2016,Black
+2,Tam Hot-Ty,35.80,173,3-31-2016,Black
+2,DRP-8551,30.40,174,3-31-2016,Black
+2,Rio Grande,8.00,175,3-31-2016,Black
+2,Mykonos,28.00,176,3-31-2016,Black
+2,Shorouq,24.80,177,3-31-2016,Black
+2,SV8579TE,25.80,178,3-31-2016,Black
+2,Rio Grande,4.80,179,3-31-2016,Black
+2,Prunus,26.20,180,3-31-2016,Black
+1,SV8579TE,22.80,181,3-31-2016,Black
+1,DRP-8551,25.40,182,3-31-2016,Black
+1,Seri,26.20,183,3-31-2016,Black
+1,Rio Grande,17.00,184,3-31-2016,Black
+1,Prunus,28.40,185,3-31-2016,Black
+1,Tam Hot-Ty,35.80,186,3-31-2016,Black
+1,Shorouq,23.20,187,3-31-2016,Black
+1,Mykonos,22.80,188,3-31-2016,Black
+1,Torero,11.60,189,3-31-2016,Black
+1,Seri,30.60,190,3-31-2016,White
+1,Prunus,36.40,191,3-31-2016,White
+1,DRP-8551,53.40,192,3-31-2016,White
+1,Rio Grande,24.60,193,3-31-2016,White
+1,Mykonos,51.40,194,3-31-2016,White
+1,SV8579TE,44.80,195,3-31-2016,White
+1,Torero,18.60,196,3-31-2016,White
+1,Shorouq,42.00,197,3-31-2016,White
+1,Tam Hot-Ty,45.60,198,3-31-2016,White
+2,DRP-8551,40.80,199,3-31-2016,White
+2,Mykonos,50.40,200,3-31-2016,White
+2,Prunus,50.40,201,3-31-2016,White
+2,Tam Hot-Ty,35.00,202,3-31-2016,White
+2,Rio Grande,32.80,203,3-31-2016,White
+2,Shorouq,9.40,204,3-31-2016,White
+2,Seri,37.80,205,3-31-2016,White
+2,SV8579TE,40.00,206,3-31-2016,White
+2,Rio Grande,22.40,207,3-31-2016,White
+3,SV8579TE,45.00,208,3-31-2016,White
+3,DRP-8551,51.20,209,3-31-2016,White
+3,Shorouq,32.80,210,3-31-2016,White
+3,Rio Grande,32.80,211,3-31-2016,White
+3,Tam Hot-Ty,43.80,212,3-31-2016,White
+3,Seri,38.80,213,3-31-2016,White
+3,Prunus,49.20,214,3-31-2016,White
+3,Rio Grande,41.40,215,3-31-2016,White
+3,Mykonos,36.40,216,3-31-2016,White
+3,Rio Grande,7.80,217,3-31-2016,Bare-soil
+3,Tam Hot-Ty,26.00,218,3-31-2016,Bare-soil
+3,Seri,19.00,219,3-31-2016,Bare-soil
+3,SV8579TE,26.60,220,3-31-2016,Bare-soil
+3,Prunus,37.20,221,3-31-2016,Bare-soil
+3,Mykonos,25.20,222,3-31-2016,Bare-soil
+3,DRP-8551,14.20,223,3-31-2016,Bare-soil
+3,Rio Grande,8.20,224,3-31-2016,Bare-soil
+3,Shorouq,21.80,225,3-31-2016,Bare-soil
+2,Seri,21.80,226,3-31-2016,Bare-soil
+2,Mykonos,11.20,227,3-31-2016,Bare-soil
+2,SV8579TE,29.40,228,3-31-2016,Bare-soil
+2,Tam Hot-Ty,7.40,229,3-31-2016,Bare-soil
+2,DRP-8551,17.20,230,3-31-2016,Bare-soil
+2,Prunus,35.20,231,3-31-2016,Bare-soil
+2,Rio Grande,15.20,232,3-31-2016,Bare-soil
+2,Shorouq,46.20,233,3-31-2016,Bare-soil
+2,Rio Grande,13.40,234,3-31-2016,Bare-soil
+1,DRP-8551,29.00,235,3-31-2016,Bare-soil
+1,Seri,33.80,236,3-31-2016,Bare-soil
+1,Prunus,4.00,237,3-31-2016,Bare-soil
+1,Shorouq,16.00,238,3-31-2016,Bare-soil
+1,Torero,17.40,239,3-31-2016,Bare-soil
+1,SV8579TE,23.20,240,3-31-2016,Bare-soil
+1,Rio Grande,18.80,241,3-31-2016,Bare-soil
+1,Tam Hot-Ty,23.40,242,3-31-2016,Bare-soil
+1,Mykonos,33.40,243,3-31-2016,Bare-soil
